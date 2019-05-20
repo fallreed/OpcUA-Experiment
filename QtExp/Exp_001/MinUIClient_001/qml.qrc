@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/StatusBar.qml</file>
+        <file>qml/MyDeviceClient.qml</file>
+        <file>qml/MainPanel.qml</file>
+        <file>qml/IndicatorButton.qml</file>
+        <file>qml/ConnectPanel.qml</file>
+        <file>qml/assets/fonts/digital-7.ttf</file>
+    </qresource>
+</RCC>
